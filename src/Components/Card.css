@@ -1,0 +1,13 @@
+.card-icon {
+    display: flex; 
+    align-items: center; 
+  }
+  
+  .card-icon .icon {
+    margin-right: 10px; 
+  }
+  .icon-header .icon {
+    background-color: transparent; 
+  }
+  
+      
